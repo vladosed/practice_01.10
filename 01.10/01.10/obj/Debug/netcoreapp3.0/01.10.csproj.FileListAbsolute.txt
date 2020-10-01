@@ -1,0 +1,13 @@
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\bin\Debug\netcoreapp3.0\01.10.exe
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\obj\Debug\netcoreapp3.0\01.10.csprojAssemblyReference.cache
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\obj\Debug\netcoreapp3.0\01.10.AssemblyInfoInputs.cache
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\obj\Debug\netcoreapp3.0\01.10.AssemblyInfo.cs
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\bin\Debug\netcoreapp3.0\01.10.deps.json
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\bin\Debug\netcoreapp3.0\01.10.runtimeconfig.json
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\bin\Debug\netcoreapp3.0\01.10.runtimeconfig.dev.json
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\bin\Debug\netcoreapp3.0\01.10.dll
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\bin\Debug\netcoreapp3.0\01.10.pdb
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\obj\Debug\netcoreapp3.0\01.10.csproj.CopyComplete
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\obj\Debug\netcoreapp3.0\01.10.dll
+C:\Users\vsodo\OneDrive\Робочий стіл\course\practice\01.10\01.10\01.10\obj\Debug\netcoreapp3.0\01.10.pdb
